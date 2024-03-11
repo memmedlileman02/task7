@@ -151,9 +151,7 @@ ul{
 .icon i:hover{
     color: red;
 }
-.icon i:focus{
-    background-color: red;
-}
+
 .element img{
     width: 100%;
     height: 250px;
