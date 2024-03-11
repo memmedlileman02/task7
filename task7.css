@@ -265,3 +265,20 @@ ul{
     left: 127px; 
     z-index: -1;
 } 
+.hisse2{
+    position: relative;
+}
+#right{
+    position: absolute;
+    top: 65%;
+    left: 455px;
+    font-size: 70px;
+    color: rgb(167, 29, 29);
+}
+#left{
+    position: absolute;
+    top: 65%;
+    left: 0px;
+    font-size: 70px;
+    color: rgb(167, 29, 29);
+}
